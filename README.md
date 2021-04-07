@@ -25,7 +25,7 @@ Follow the next instructions to get a copy of the project up and running in your
 - Run the following commands:
 ```
 git clone git@github.com:holdedhub/junior-frontend-challenge.git
-cd technical-test
+cd junior-frontend-challenge
 docker-compose up
 ```
 
